@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bartlomiej Kosinski
 - 👀 I’m interested in python development
-- 🌱 I’m currently learning python AI
+- 🌱 I’m currently learning python
 - 📫 How to reach me discord: !Kosa#9381
